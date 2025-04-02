@@ -3,7 +3,7 @@
 ## About Me  
 🎓 I'm a student of IT at the University of Technology in Krakow.  
 👀 My interests include video games, classical music, and health.  
-🌱 I'm currently learning **C#** to find an **internship or my first job in IT**.  
+🌱 I'm currently learning **C#** and **Python** to find an **internship or my first job in IT**.  
 🎮 In my free time, I create games in **Unity** and explore **Python** for IoT projects and data analysis.  
 
 ## Hobbies  
